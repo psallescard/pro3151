@@ -48,3 +48,11 @@ O sistema foi estruturado para atender três fluxos de informação distintos (A
 - **Usabilidade:** Design simplificado para o nível operacional (botões grandes, checkout em <10s) e fluxo de agendamento do cliente concluído em no máximo 4 etapas.
 - **Compatibilidade:** Suporte pleno aos navegadores Chrome, Firefox e Edge em resoluções a partir de 1280x720 pixels.
 - **Manutenibilidade:** Arquitetura modular que permite a adição de novas funcionalidades sem impactar componentes já implantados.
+
+## Colaboradores do Projeto
+
+- Pedro Salles
+- Pedro Leme
+- Francisco Behr
+- Rafael Arraes
+- Felipe Isamu
